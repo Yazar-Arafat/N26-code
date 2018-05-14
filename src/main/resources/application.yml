@@ -1,0 +1,9 @@
+logging:
+  level:
+    ROOT: INFO
+spring:
+  application:
+    name: statistics
+management:
+    security:
+      enabled: false
