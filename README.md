@@ -31,7 +31,7 @@ Insertion operations in the transaction end point takes O(1) as data is put into
 Retrieval operations are O(1) operation as well as data is filtered and returned using streams.
 
 
-## Code Challenge
+## statistics
 
 We would like to have a restful API for our statistics. The main use case for our API is to
 calculate realtime statistic from the last 60 seconds. There will be two APIs, one of them is
